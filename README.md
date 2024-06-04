@@ -1,4 +1,4 @@
-# learn++
+# learnplusplus
 
 A collection of small modules I wrote to learn C++. Most of the code isn't documented and excludes features and complexity that would clearly improve the program primarily because I was trying to focus on learning a single element of the language, rather than perfecting my code. I found these useful and thought to share.
 
